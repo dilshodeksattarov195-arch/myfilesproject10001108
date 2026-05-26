@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdarse",
+        "uuid": 6382080,
+        "checksum": "l87dhn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
